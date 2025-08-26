@@ -9,7 +9,7 @@ public class Fact {
 		return n*getFactorial(n-1);
 	}
 	public static void main(String[] args) {
-		System.out.println(getFactorial(6));
+		System.out.println("Factorial of 6: "+getFactorial(6));
 	}
 
 }
