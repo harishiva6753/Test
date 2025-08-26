@@ -1,5 +1,3 @@
-package test_1;
-
 public class Fact {
 	public static int getFactorial(int n) {
 		if(n<0) 
